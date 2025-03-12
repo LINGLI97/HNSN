@@ -100,7 +100,7 @@ Please refer to [here](https://github.com/csqjxiao/FlowScope) and [here](https:/
 
 
 ## Datasets
-We provide 12 bipartite graph datasets and 3 tripartite datasets, see the details in the table .
+We provide 12 bipartite graph datasets and 3 tripartite datasets, see the details in the table and download them from [here](https://drive.google.com/file/d/1gcWFnSrMis6G15vgxjowHwjN2_aLXOlY/view?usp=sharing).
 
 | Datasets                      | filename                  |
 |-------------------------------|---------------------------|
@@ -149,4 +149,12 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Citing & Authors
 
-...
+```
+@article{li2024heavy,
+  title={Heavy Nodes in a Small Neighborhood: Exact and Peeling Algorithms with Applications},
+  author={Li, Ling and Verbeek, Hilde and Chen, Huiping and Loukides, Grigorios and Gwadera, Robert and Stougie, Leen and Pissis, Solon P},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2024},
+  publisher={IEEE}
+}
+```
